@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MaxthonFear
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning web development (HTML, CSS and Java)
-- 💞️ I’m looking to collaborate on companies or individuals who want to have pages or webs or improve the page.
-- 📫 How to reach me, you can contact me by email
+- 👋 Hola, soy Max.
+- 👀 Me interesa el desarrollo web.
+- 🌱 Actualmente estoy aprendiendo Desarrollo Web (HTML, CSS y Java)
+- 💞️ Busco colaborar con empresas o particulares que quieran tener páginas webs o mejorar las suyas.
+- 📫 Para ponerse en contacto conmigo, puede hacerlo por correo electrónico.
 
 <!---
 MaxthonFear/MaxthonFear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
